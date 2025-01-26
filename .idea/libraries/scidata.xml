@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="scidata" type="mix">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/_build/test/lib/scidata/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/test/lib/scidata/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/test/lib/scidata/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/test/lib/scidata/ebin" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/deps/scidata/lib" />
+      <root url="file://$PROJECT_DIR$/deps/scidata/lib" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="polaris" type="mix">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/_build/dev/lib/polaris/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/test/lib/polaris/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/dev/lib/polaris/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/test/lib/polaris/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/dev/lib/polaris/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/test/lib/polaris/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/dev/lib/polaris/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/test/lib/polaris/ebin" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/deps/polaris/lib" />
+      <root url="file://$PROJECT_DIR$/deps/polaris/lib" />
+    </SOURCES>
+  </library>
+</component>

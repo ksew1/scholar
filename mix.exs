@@ -33,8 +33,8 @@ defmodule Scholar.MixProject do
       {:nimble_options, "~> 0.5.2 or ~> 1.0"},
       {:exla, ">= 0.0.0", only: :test},
       {:polaris, "~> 0.1"},
-      {:benchee, "~> 1.0", only: :dev},
-      {:scidata, "~> 0.1.11", only: :test}
+      {:explorer, "~> 0.10.0", only: :test},
+      {:tokenizers, "~> 0.1.0", only: :test}
     ]
   end
 
